@@ -26,4 +26,15 @@ body {
  footer {
     margin-bottom: 100px;
  }
- 
+
+ .green {
+     color: green;
+ }
+
+ .blue{
+     color: blue;
+ }
+
+ .red{
+     color:red;
+ }
