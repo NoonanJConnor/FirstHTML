@@ -38,3 +38,13 @@ body {
  .red{
      color:red;
  }
+
+ .orange{
+     padding: 2rem;
+     margin: 3rem;
+     color: orange;
+ }
+
+ #header{
+     color: purple;
+ }
