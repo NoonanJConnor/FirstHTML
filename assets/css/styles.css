@@ -48,3 +48,11 @@ body {
  #header{
      color: purple;
  }
+
+ a.white{
+     color: white;
+ }
+
+ li a {
+     color: white;
+ }
