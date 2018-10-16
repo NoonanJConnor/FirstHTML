@@ -2,12 +2,12 @@ body {
     margin: 0px;
  }
  
- nav {
+ .nav {
     background-color: rgb(255, 0, 13);
     padding: 1.5rem;
  }
  
- nav ul li {
+ .nav ul li {
     display: inline;
     margin: 1.5rem;
     color: white;
@@ -17,13 +17,13 @@ body {
     margin: 0px;
  }
  
- section {
+ .section {
     background-color: #efefef;
     width: 500px;
     margin: 0 auto;
  }
  
- footer {
+ .footer {
     margin-bottom: 100px;
  }
 
@@ -49,11 +49,10 @@ body {
      color: purple;
  }
 
- a.white{
-     color: white;
+ a.black{
+     color: black;
  }
 
-/* li a {
+li a {
      color: white;
  }
- /*
